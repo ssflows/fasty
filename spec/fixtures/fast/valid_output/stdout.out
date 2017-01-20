@@ -1,0 +1,232 @@
+------------------------------------
+FastCodeML V1.3.0
+------------------------------------
+
+Tree file:          /workdir/fasty_run_20170120-1-1gffcw2/tree.nwk
+Gene file:          /workdir/fasty_run_20170120-1-1gffcw2/aligned.phy
+Verbose level:      4 (Mild debug messages)
+H0 pre stop:        No
+Reduce forest:      Aggressive
+Clean data:         Off
+Optimizer:          22
+Relative error:     0.001
+Results file:       /workdir/fasty_run_20170120-1-1gffcw2/output.out
+Current num. cores: 4
+Total num. cores:   4
+Compiled with:      USE_OPENMP USE_CPV_SCALING USE_LAPACK 
+
+
+Num. species:          5
+Num. basis:           24
+Valid codons:          8/8
+Sites:                 8/8
+Multi codons:          0/8
+
+------------------------------------
+
+1 1 1 1 1 1 1 1 
+
+Reduced    0 maps to original: 0
+Reduced    1 maps to original: 1
+Reduced    2 maps to original: 2
+Reduced    3 maps to original: 3
+Reduced    4 maps to original: 4
+Reduced    5 maps to original: 5
+Reduced    6 maps to original: 6
+Reduced    7 maps to original: 7
+
+Tree as read in PhyloTree
+TREE
+  NODELST
+    SUBTREE
+      FLAB
+        LABEL
+          LABEL A1
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 0.00000001
+    SUBTREE
+      FLAB
+        LABEL
+          LABEL A2
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 0.00849395
+    SUBTREE
+      NODELST
+        SUBTREE
+          FLAB
+            LABEL
+              LABEL A5
+          CBLEN
+            BRANCHLEN
+              BRANCHLEN 0.00441087
+        SUBTREE
+          NODELST
+            SUBTREE
+              FLAB
+                LABEL
+                  LABEL A4
+              CBLEN
+                BRANCHLEN
+                  BRANCHLEN 0.00000001
+            SUBTREE
+              FLAB
+                LABEL
+                  LABEL A3
+              CBLEN
+                BRANCHLEN
+                  BRANCHLEN 0.00000001
+          FLAB
+            LABEL
+              LABEL 0.399492
+          CBLEN
+            BRANCHLEN
+              BRANCHLEN 0.01079118
+      FLAB
+        LABEL
+          LABEL 1.000000
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 2.31203664
+<> 0
+   <A1> 1e-08
+   <A2> 0.00849395
+   <1.000000> 2.31204
+      <A5> 0.00441087
+      <0.399492> 0.0107912
+         <A4> 1e-08
+         <A3> 1e-08
+A1
+A2
+A5
+A4
+A3
+
+Root has 3 children of which 2 are leaves
+Annotated Newick Tree (*N marks the internal branch N)
+
+(A1:1e-08,A2:0.00849395,(A5:0.00441087,(A4:1e-08,A3:1e-08)0.399492:0.0107912*1)1.000000:2.31204*0):0;
+
+       0.000       0.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000       0.000           0           0
+       0.000       0.000           0       0.000
+       0.000       0.000       5.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000       5.000       0.000       0.000
+       0.000       5.000       0.000       5.000
+       0.000       5.000       0.000       0.000
+       0.000       0.000       5.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000       5.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+       5.000       0.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+
+     0.00000     0.25000     0.50000     0.25000
+     0.50000     0.12500     0.25000     0.12500
+     0.12500     0.50000     0.25000     0.12500
+
+  0.00000000  0.00000000  0.00000000  0.00000000
+  0.00000000  0.00000000  0.00000000  0.00000000
+  0.00000000  0.00000000  0.00000000  0.00000000
+  0.00000000  0.00000000  0.00000000  0.00000000
+  0.01562500  0.06250000  0.03125000  0.01562500
+  0.00390625  0.01562500  0.00781250  0.00390625
+  0.00781250  0.03125000  0.01562500  0.00781250
+  0.00390625  0.01562500  0.00781250  0.00390625
+  0.03125000  0.12500000  0.06250000  0.03125000
+  0.00781250  0.03125000  0.01562500  0.00781250
+  0.01562500  0.06250000  0.03125000  0.01562500
+  0.00781250  0.03125000  0.01562500  0.00781250
+  0.01562500  0.06250000  0.03125000  0.01562500
+  0.00390625  0.01562500  0.00781250  0.00390625
+  0.00781250  0.03125000  0.01562500  0.00781250
+  0.00390625  0.01562500  0.00781250  0.00390625
+
+TIMER (preproc.):   26 ms
+
+
+Num branches:             7
+Internal branches:        2
+Unique sites:             8
+Total branches:          56
+Reduced branches:        56  100.00%
+Aggressive reduct.:      56  100.00%
+
+
+TEST FOR H0 (before optimization)
+Trees in class   0:    24
+
+TEST FOR H0
+Trees in class   0:    24
+
+TEST FOR H1 (before optimization)
+Trees in class   0:    32
+
+TEST FOR H1
+Trees in class   0:    32
+
+TEST FOR BEB (before optimization)
+Trees in class   0:     8
+
+TEST FOR BEB
+Trees in class   0:     8
+
+Doing for all internal branches as foreground
+------------------------------------
+Doing foreground branch 2
+
+LnL0: -27.725887222397777 Function calls: 415	  
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  1.0000000  p1:  0.0000000  p2a:  0.0000000  p2b:  0.0000000
+w0:  0.9784119  k:   1.1675449
+
+LnL1: -27.725887222397798 Function calls: 250
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.5114069  p1:  0.3164565  p2a:  0.1063362  p2b:  0.0658004
+w0:  0.1067120  k:   0.7934480  w2:   1.0193148
+
+LRT: -0.000000000000021	 (threshold: 1.920729410347062)
+
+H1 Final Annotated Newick Tree (*N marks the branch N)
+
+(A1:0.000000*0,A2:0.000000*1,(A5:0.000000*3,(A4:0.000000*5,A3:0.000000*6)0.399492:0.000000*4)1.000000:0.000000*2);
+
+(A1:0.000000,A2:0.000000,(A5:0.000000,(A4:0.000000,A3:0.000000)0.399492:0.000000)1.000000:0.000000);
+
+Doing foreground branch 4
+
+LnL0: -27.725887222397784 Function calls: 346	  
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.4107181  p1:  0.4163637  p2a:  0.0858689  p2b:  0.0870493
+w0:  0.8840056  k:   1.4080668
+
+LnL1: -27.725887222397784 Function calls: 263
+
+  0.0000000 -0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.5974874  p1:  0.2807673  p2a:  0.0828248  p2b:  0.0389205
+w0:  0.8372858  k:   1.2146945  w2:   1.1789476
+
+LRT: 0.000000000000000	 (threshold: 1.920729410347062)
+
+H1 Final Annotated Newick Tree (*N marks the branch N)
+
+(A1:0.000000*0,A2:-0.000000*1,(A5:0.000000*3,(A4:0.000000*5,A3:0.000000*6)0.399492:0.000000*4)1.000000:0.000000*2);
+
+(A1:0.000000,A2:-0.000000,(A5:0.000000,(A4:0.000000,A3:0.000000)0.399492:0.000000)1.000000:0.000000);
+
+
+TIMER (processing) ncores:  4 time: 23817
+
+Time used: 0m:23s
+Cores used: 4

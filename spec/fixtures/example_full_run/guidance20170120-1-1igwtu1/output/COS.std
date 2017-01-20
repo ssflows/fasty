@@ -1,0 +1,1700 @@
+--- init HoT_COS_GUIDANCE2.pl pid=406 Fri Jan 20 09:03:38 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_78_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=405 Fri Jan 20 09:03:38 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_0_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=407 Fri Jan 20 09:03:38 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_26_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_78.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=409 Fri Jan 20 09:03:38 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_52_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_0.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_26.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_52.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 17 of 17 ...
+-Making branch 17 of 17 ...
+-Making branch 16 of 17 ...
+-Making branch 4 of 17 ...
+---
+ MSA_52_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_52_cos_MFT
+Fri Jan 20 09:03:38 2017
+--- init HoT_COS_GUIDANCE2.pl pid=2351 Fri Jan 20 09:03:39 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_53_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_53.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_78_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_78_cos_MFT
+Fri Jan 20 09:03:39 2017
+---
+ MSA_26_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_26_cos_MFT
+Fri Jan 20 09:03:39 2017
+---
+ MSA_0_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_0_cos_MFT
+Fri Jan 20 09:03:39 2017
+-Making branch 10 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=2665 Fri Jan 20 09:03:39 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_79_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=2661 Fri Jan 20 09:03:39 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_27_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=2673 Fri Jan 20 09:03:39 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_1_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_1.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_27.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_79.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 17 of 17 ...
+-Making branch 12 of 17 ...
+-Making branch 17 of 17 ...
+---
+ MSA_53_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_53_cos_MFT
+Fri Jan 20 09:03:39 2017
+--- init HoT_COS_GUIDANCE2.pl pid=3623 Fri Jan 20 09:03:40 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_54_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_54.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 2 of 17 ...
+---
+ MSA_1_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_1_cos_MFT
+Fri Jan 20 09:03:40 2017
+---
+ MSA_79_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_79_cos_MFT
+Fri Jan 20 09:03:40 2017
+---
+ MSA_27_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_27_cos_MFT
+Fri Jan 20 09:03:40 2017
+---
+ MSA_54_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_54_cos_MFT
+Fri Jan 20 09:03:40 2017
+--- init HoT_COS_GUIDANCE2.pl pid=4891 Fri Jan 20 09:03:40 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_2_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_2.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=4908 Fri Jan 20 09:03:41 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_80_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=4912 Fri Jan 20 09:03:41 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_28_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=4923 Fri Jan 20 09:03:41 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_55_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_28.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_80.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_55.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 14 of 17 ...
+-Making branch 3 of 17 ...
+-Making branch 17 of 17 ...
+-Making branch 7 of 17 ...
+---
+ MSA_80_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_80_cos_MFT
+Fri Jan 20 09:03:42 2017
+---
+ MSA_55_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_55_cos_MFT
+Fri Jan 20 09:03:42 2017
+--- init HoT_COS_GUIDANCE2.pl pid=6697 Fri Jan 20 09:03:42 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_81_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_81.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=6720 Fri Jan 20 09:03:42 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_56_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_56.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_2_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_2_cos_MFT
+Fri Jan 20 09:03:42 2017
+-Making hot_T ...
+---
+ MSA_28_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_28_cos_MFT
+Fri Jan 20 09:03:42 2017
+-Making branch 11 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=7124 Fri Jan 20 09:03:42 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_3_cos_MFT
+---
+-Making branch 10 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=7146 Fri Jan 20 09:03:43 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_29_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_3.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_29.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 2 of 17 ...
+-Making branch 3 of 17 ...
+---
+ MSA_56_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_56_cos_MFT
+Fri Jan 20 09:03:43 2017
+--- init HoT_COS_GUIDANCE2.pl pid=8373 Fri Jan 20 09:03:43 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_57_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_57.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_3_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_3_cos_MFT
+Fri Jan 20 09:03:43 2017
+---
+ MSA_29_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_29_cos_MFT
+Fri Jan 20 09:03:43 2017
+-Making hot_T ...
+---
+ MSA_81_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_81_cos_MFT
+Fri Jan 20 09:03:44 2017
+-Making branch 4 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=8611 Fri Jan 20 09:03:44 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_4_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=8631 Fri Jan 20 09:03:44 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_30_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_30.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_4.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=8654 Fri Jan 20 09:03:44 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_82_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_82.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 12 of 17 ...
+-Making branch 12 of 17 ...
+-Making branch 2 of 17 ...
+---
+ MSA_57_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_57_cos_MFT
+Fri Jan 20 09:03:45 2017
+--- init HoT_COS_GUIDANCE2.pl pid=9681 Fri Jan 20 09:03:45 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_58_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_58.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_82_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_82_cos_MFT
+Fri Jan 20 09:03:45 2017
+-Making branch 17 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=10501 Fri Jan 20 09:03:45 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_83_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_83.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_30_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_30_cos_MFT
+Fri Jan 20 09:03:46 2017
+---
+ MSA_4_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_4_cos_MFT
+Fri Jan 20 09:03:46 2017
+-Making branch 4 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=10967 Fri Jan 20 09:03:46 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_31_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=11005 Fri Jan 20 09:03:46 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_5_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_31.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_5.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 17 of 17 ...
+---
+ MSA_58_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_58_cos_MFT
+Fri Jan 20 09:03:46 2017
+-Making branch 10 of 17 ...
+---
+ MSA_83_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_83_cos_MFT
+Fri Jan 20 09:03:46 2017
+--- init HoT_COS_GUIDANCE2.pl pid=11815 Fri Jan 20 09:03:47 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_59_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_59.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=11909 Fri Jan 20 09:03:47 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_84_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_84.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 4 of 17 ...
+---
+ MSA_5_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_5_cos_MFT
+Fri Jan 20 09:03:47 2017
+-Making branch 13 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=12640 Fri Jan 20 09:03:47 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_6_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_6.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_31_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_31_cos_MFT
+Fri Jan 20 09:03:47 2017
+---
+ MSA_59_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_59_cos_MFT
+Fri Jan 20 09:03:47 2017
+-Making branch 14 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=13227 Fri Jan 20 09:03:47 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_32_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_32.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=13376 Fri Jan 20 09:03:48 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_60_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_60.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 16 of 17 ...
+---
+ MSA_84_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_84_cos_MFT
+Fri Jan 20 09:03:48 2017
+-Making branch 10 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=14287 Fri Jan 20 09:03:48 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_85_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_85.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_6_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_6_cos_MFT
+Fri Jan 20 09:03:48 2017
+-Making branch 17 of 17 ...
+---
+ MSA_60_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_60_cos_MFT
+Fri Jan 20 09:03:48 2017
+--- init HoT_COS_GUIDANCE2.pl pid=14822 Fri Jan 20 09:03:48 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_7_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_7.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=14932 Fri Jan 20 09:03:49 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_61_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_61.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_32_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_32_cos_MFT
+Fri Jan 20 09:03:49 2017
+-Making hot_T ...
+-Making branch 13 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=15427 Fri Jan 20 09:03:49 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_33_cos_MFT
+---
+-Making branch 13 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_33.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 1 of 17 ...
+---
+ MSA_85_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_85_cos_MFT
+Fri Jan 20 09:03:49 2017
+--- init HoT_COS_GUIDANCE2.pl pid=16643 Fri Jan 20 09:03:50 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_86_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_86.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_33_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_33_cos_MFT
+Fri Jan 20 09:03:50 2017
+---
+ MSA_7_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_7_cos_MFT
+Fri Jan 20 09:03:50 2017
+---
+ MSA_61_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_61_cos_MFT
+Fri Jan 20 09:03:50 2017
+-Making branch 2 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=16905 Fri Jan 20 09:03:50 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_34_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_34.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=16935 Fri Jan 20 09:03:50 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_8_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_8.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=17019 Fri Jan 20 09:03:50 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_62_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_62.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 5 of 17 ...
+-Making branch 7 of 17 ...
+-Making branch 8 of 17 ...
+---
+ MSA_86_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_86_cos_MFT
+Fri Jan 20 09:03:51 2017
+--- init HoT_COS_GUIDANCE2.pl pid=18116 Fri Jan 20 09:03:51 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_87_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_87.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_8_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_8_cos_MFT
+Fri Jan 20 09:03:51 2017
+---
+ MSA_34_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_34_cos_MFT
+Fri Jan 20 09:03:51 2017
+-Making hot_T ...
+---
+ MSA_62_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_62_cos_MFT
+Fri Jan 20 09:03:51 2017
+--- init HoT_COS_GUIDANCE2.pl pid=18375 Fri Jan 20 09:03:51 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_9_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=18384 Fri Jan 20 09:03:51 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_35_cos_MFT
+---
+-Making branch 2 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_35.rooted.GoodBranchLength
+-Making hot_H ...
+TREE_FILE:MSA.MAFFT.semphy.tree_9.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=18458 Fri Jan 20 09:03:51 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_63_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_63.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 12 of 17 ...
+-Making branch 7 of 17 ...
+-Making branch 11 of 17 ...
+---
+ MSA_87_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_87_cos_MFT
+Fri Jan 20 09:03:52 2017
+--- init HoT_COS_GUIDANCE2.pl pid=19621 Fri Jan 20 09:03:52 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_88_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_88.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_9_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_9_cos_MFT
+Fri Jan 20 09:03:52 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=20157 Fri Jan 20 09:03:52 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_10_cos_MFT
+---
+-Making branch 8 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_10.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_35_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_35_cos_MFT
+Fri Jan 20 09:03:52 2017
+-Making branch 5 of 17 ...
+---
+ MSA_63_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_63_cos_MFT
+Fri Jan 20 09:03:52 2017
+--- init HoT_COS_GUIDANCE2.pl pid=20665 Fri Jan 20 09:03:52 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_36_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_36.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_88_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_88_cos_MFT
+Fri Jan 20 09:03:52 2017
+--- init HoT_COS_GUIDANCE2.pl pid=20774 Fri Jan 20 09:03:53 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_64_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_64.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=20951 Fri Jan 20 09:03:53 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_89_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_89.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 15 of 17 ...
+---
+ MSA_10_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_10_cos_MFT
+Fri Jan 20 09:03:53 2017
+-Making hot_T ...
+-Making branch 12 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=21516 Fri Jan 20 09:03:53 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_11_cos_MFT
+---
+-Making branch 7 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_11.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 1 of 17 ...
+---
+ MSA_89_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_89_cos_MFT
+Fri Jan 20 09:03:54 2017
+--- init HoT_COS_GUIDANCE2.pl pid=22706 Fri Jan 20 09:03:54 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_90_cos_MFT
+---
+---
+ MSA_36_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_36_cos_MFT
+Fri Jan 20 09:03:54 2017
+TREE_FILE:MSA.MAFFT.semphy.tree_90.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_11_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_11_cos_MFT
+Fri Jan 20 09:03:54 2017
+---
+ MSA_64_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_64_cos_MFT
+Fri Jan 20 09:03:54 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=22840 Fri Jan 20 09:03:54 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_37_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_37.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 2 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=22923 Fri Jan 20 09:03:54 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_65_cos_MFT
+---
+--- init HoT_COS_GUIDANCE2.pl pid=22919 Fri Jan 20 09:03:54 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_12_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_65.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_12.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 13 of 17 ...
+-Making branch 6 of 17 ...
+-Making branch 17 of 17 ...
+---
+ MSA_90_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_90_cos_MFT
+Fri Jan 20 09:03:55 2017
+--- init HoT_COS_GUIDANCE2.pl pid=24261 Fri Jan 20 09:03:55 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_91_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_91.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_65_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_65_cos_MFT
+Fri Jan 20 09:03:55 2017
+-Making hot_T ...
+-Making branch 2 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=24739 Fri Jan 20 09:03:55 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_66_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_66.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_37_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_37_cos_MFT
+Fri Jan 20 09:03:56 2017
+-Making hot_T ...
+---
+ MSA_12_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_12_cos_MFT
+Fri Jan 20 09:03:56 2017
+--- init HoT_COS_GUIDANCE2.pl pid=25088 Fri Jan 20 09:03:56 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_38_cos_MFT
+---
+-Making branch 15 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_38.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=25187 Fri Jan 20 09:03:56 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_13_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_13.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_91_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_91_cos_MFT
+Fri Jan 20 09:03:56 2017
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 5 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=25615 Fri Jan 20 09:03:56 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_92_cos_MFT
+---
+-Making branch 9 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_92.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 17 of 17 ...
+---
+ MSA_38_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_38_cos_MFT
+Fri Jan 20 09:03:57 2017
+---
+ MSA_13_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_13_cos_MFT
+Fri Jan 20 09:03:57 2017
+---
+ MSA_66_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_66_cos_MFT
+Fri Jan 20 09:03:57 2017
+--- init HoT_COS_GUIDANCE2.pl pid=26669 Fri Jan 20 09:03:57 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_39_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_39.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=26749 Fri Jan 20 09:03:57 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_14_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_14.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=26794 Fri Jan 20 09:03:57 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_67_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_67.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 11 of 17 ...
+-Making hot_T ...
+-Making branch 3 of 17 ...
+-Making branch 11 of 17 ...
+---
+ MSA_92_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_92_cos_MFT
+Fri Jan 20 09:03:57 2017
+--- init HoT_COS_GUIDANCE2.pl pid=27935 Fri Jan 20 09:03:57 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_93_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_93.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_14_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_14_cos_MFT
+Fri Jan 20 09:03:58 2017
+-Making hot_T ...
+-Making branch 4 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=28451 Fri Jan 20 09:03:58 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_15_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_15.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_39_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_39_cos_MFT
+Fri Jan 20 09:03:58 2017
+-Making hot_T ...
+---
+ MSA_67_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_67_cos_MFT
+Fri Jan 20 09:03:58 2017
+-Making branch 9 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=28912 Fri Jan 20 09:03:58 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_40_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_40.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=28996 Fri Jan 20 09:03:58 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_68_cos_MFT
+---
+---
+ MSA_93_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_93_cos_MFT
+Fri Jan 20 09:03:58 2017
+TREE_FILE:MSA.MAFFT.semphy.tree_68.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=29334 Fri Jan 20 09:03:58 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_94_cos_MFT
+---
+-Making branch 12 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_94.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 9 of 17 ...
+-Making hot_T ...
+---
+ MSA_15_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_15_cos_MFT
+Fri Jan 20 09:03:59 2017
+-Making branch 5 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=29950 Fri Jan 20 09:03:59 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_16_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_16.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_68_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_68_cos_MFT
+Fri Jan 20 09:03:59 2017
+-Making branch 3 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=30617 Fri Jan 20 09:03:59 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_69_cos_MFT
+---
+---
+ MSA_94_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_94_cos_MFT
+Fri Jan 20 09:03:59 2017
+TREE_FILE:MSA.MAFFT.semphy.tree_69.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+---
+ MSA_40_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_40_cos_MFT
+Fri Jan 20 09:04:00 2017
+--- init HoT_COS_GUIDANCE2.pl pid=30859 Fri Jan 20 09:04:00 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_95_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_95.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 9 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=31031 Fri Jan 20 09:04:00 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_41_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_41.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_16_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_16_cos_MFT
+Fri Jan 20 09:04:00 2017
+-Making branch 11 of 17 ...
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=31410 Fri Jan 20 09:04:00 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_17_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_17.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 13 of 17 ...
+-Making hot_T ...
+---
+ MSA_69_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_69_cos_MFT
+Fri Jan 20 09:04:00 2017
+-Making branch 2 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=32046 Fri Jan 20 09:04:00 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_70_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_70.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 2 of 17 ...
+---
+ MSA_17_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_17_cos_MFT
+Fri Jan 20 09:04:01 2017
+---
+ MSA_95_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_95_cos_MFT
+Fri Jan 20 09:04:01 2017
+--- init HoT_COS_GUIDANCE2.pl pid=581 Fri Jan 20 09:04:01 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_18_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_18.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_41_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_41_cos_MFT
+Fri Jan 20 09:04:01 2017
+--- init HoT_COS_GUIDANCE2.pl pid=626 Fri Jan 20 09:04:01 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_96_cos_MFT
+---
+---
+ MSA_70_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_70_cos_MFT
+Fri Jan 20 09:04:01 2017
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_96.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=757 Fri Jan 20 09:04:01 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_42_cos_MFT
+---
+-Making branch 6 of 17 ...
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_42.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=876 Fri Jan 20 09:04:01 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_71_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_71.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 8 of 17 ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 12 of 17 ...
+-Making branch 11 of 17 ...
+---
+ MSA_18_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_18_cos_MFT
+Fri Jan 20 09:04:02 2017
+---
+ MSA_96_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_96_cos_MFT
+Fri Jan 20 09:04:02 2017
+--- init HoT_COS_GUIDANCE2.pl pid=1998 Fri Jan 20 09:04:02 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_19_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_19.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=2205 Fri Jan 20 09:04:02 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_97_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_97.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 16 of 17 ...
+-Making branch 9 of 17 ...
+---
+ MSA_42_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_42_cos_MFT
+Fri Jan 20 09:04:03 2017
+---
+ MSA_71_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_71_cos_MFT
+Fri Jan 20 09:04:03 2017
+--- init HoT_COS_GUIDANCE2.pl pid=3287 Fri Jan 20 09:04:03 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_43_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_43.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=3370 Fri Jan 20 09:04:03 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_72_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_72.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_97_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_97_cos_MFT
+Fri Jan 20 09:04:03 2017
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 15 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=3665 Fri Jan 20 09:04:03 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_98_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_98.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 12 of 17 ...
+---
+ MSA_19_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_19_cos_MFT
+Fri Jan 20 09:04:03 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=4148 Fri Jan 20 09:04:03 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_20_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_20.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 14 of 17 ...
+-Making hot_T ...
+-Making branch 13 of 17 ...
+---
+ MSA_43_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_43_cos_MFT
+Fri Jan 20 09:04:04 2017
+--- init HoT_COS_GUIDANCE2.pl pid=5469 Fri Jan 20 09:04:04 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_44_cos_MFT
+---
+---
+ MSA_72_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_72_cos_MFT
+Fri Jan 20 09:04:04 2017
+TREE_FILE:MSA.MAFFT.semphy.tree_44.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=5663 Fri Jan 20 09:04:04 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_73_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_73.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_98_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_98_cos_MFT
+Fri Jan 20 09:04:04 2017
+-Making branch 7 of 17 ...
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=6045 Fri Jan 20 09:04:05 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_99_cos_MFT
+---
+-Making branch 12 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_99.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_20_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_20_cos_MFT
+Fri Jan 20 09:04:05 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=6464 Fri Jan 20 09:04:05 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_21_cos_MFT
+---
+-Making branch 5 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_21.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_44_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_44_cos_MFT
+Fri Jan 20 09:04:05 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=6852 Fri Jan 20 09:04:05 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_45_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_45.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 12 of 17 ...
+-Making hot_T ...
+---
+ MSA_99_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_99_cos_MFT
+Fri Jan 20 09:04:05 2017
+-Making branch 13 of 17 ...
+---
+ MSA_73_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_73_cos_MFT
+Fri Jan 20 09:04:06 2017
+--- init HoT_COS_GUIDANCE2.pl pid=7855 Fri Jan 20 09:04:06 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_74_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_74.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 9 of 17 ...
+---
+ MSA_21_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_21_cos_MFT
+Fri Jan 20 09:04:06 2017
+--- init HoT_COS_GUIDANCE2.pl pid=8437 Fri Jan 20 09:04:06 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_22_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_22.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_45_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_45_cos_MFT
+Fri Jan 20 09:04:06 2017
+-Making hot_T ...
+---
+ MSA_74_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_74_cos_MFT
+Fri Jan 20 09:04:06 2017
+--- init HoT_COS_GUIDANCE2.pl pid=8620 Fri Jan 20 09:04:06 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_46_cos_MFT
+---
+-Making branch 6 of 17 ...
+TREE_FILE:MSA.MAFFT.semphy.tree_46.rooted.GoodBranchLength
+-Making hot_H ...
+--- init HoT_COS_GUIDANCE2.pl pid=8756 Fri Jan 20 09:04:07 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_75_cos_MFT
+---
+-Making hot_T ...
+TREE_FILE:MSA.MAFFT.semphy.tree_75.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 16 of 17 ...
+-Making hot_T ...
+-Making branch 15 of 17 ...
+---
+ MSA_22_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_22_cos_MFT
+Fri Jan 20 09:04:07 2017
+--- init HoT_COS_GUIDANCE2.pl pid=9596 Fri Jan 20 09:04:07 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_23_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_23.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 9 of 17 ...
+---
+ MSA_46_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_46_cos_MFT
+Fri Jan 20 09:04:08 2017
+---
+ MSA_75_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_75_cos_MFT
+Fri Jan 20 09:04:08 2017
+--- init HoT_COS_GUIDANCE2.pl pid=10374 Fri Jan 20 09:04:08 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_47_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_47.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_23_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_23_cos_MFT
+Fri Jan 20 09:04:08 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=10456 Fri Jan 20 09:04:08 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_76_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_76.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 1 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=10572 Fri Jan 20 09:04:08 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_24_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_24.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 8 of 17 ...
+-Making branch 4 of 17 ...
+---
+ MSA_47_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_47_cos_MFT
+Fri Jan 20 09:04:08 2017
+--- init HoT_COS_GUIDANCE2.pl pid=11494 Fri Jan 20 09:04:08 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_48_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_48.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_76_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_76_cos_MFT
+Fri Jan 20 09:04:09 2017
+---
+ MSA_24_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_24_cos_MFT
+Fri Jan 20 09:04:09 2017
+-Making hot_T ...
+--- init HoT_COS_GUIDANCE2.pl pid=11618 Fri Jan 20 09:04:09 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_77_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_77.rooted.GoodBranchLength
+-Making hot_H ...
+-Making branch 2 of 17 ...
+--- init HoT_COS_GUIDANCE2.pl pid=11687 Fri Jan 20 09:04:09 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_25_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_25.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making hot_T ...
+-Making branch 10 of 17 ...
+-Making branch 8 of 17 ...
+---
+ MSA_48_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_48_cos_MFT
+Fri Jan 20 09:04:09 2017
+--- init HoT_COS_GUIDANCE2.pl pid=12619 Fri Jan 20 09:04:09 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_49_cos_MFT
+---
+---
+ MSA_77_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_77_cos_MFT
+Fri Jan 20 09:04:09 2017
+TREE_FILE:MSA.MAFFT.semphy.tree_49.rooted.GoodBranchLength
+-Making hot_H ...
+---
+ MSA_25_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_25_cos_MFT
+Fri Jan 20 09:04:10 2017
+-Making hot_T ...
+-Making branch 3 of 17 ...
+---
+ MSA_49_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_49_cos_MFT
+Fri Jan 20 09:04:10 2017
+--- init HoT_COS_GUIDANCE2.pl pid=13032 Fri Jan 20 09:04:10 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_50_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_50.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 15 of 17 ...
+---
+ MSA_50_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_50_cos_MFT
+Fri Jan 20 09:04:11 2017
+--- init HoT_COS_GUIDANCE2.pl pid=13594 Fri Jan 20 09:04:11 2017
+met=MFT
+infile=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/Seqs.numberd.fas
+seqtype=0
+outdir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+tgz=0
+debug=0
+basedir=/workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output
+output_id=MSA_51_cos_MFT
+---
+TREE_FILE:MSA.MAFFT.semphy.tree_51.rooted.GoodBranchLength
+-Making hot_H ...
+-Making hot_T ...
+-Making branch 13 of 17 ...
+---
+ MSA_51_cos_MFT HoT_COS_GUIDANCE2.pl done : dir saved to /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/MSA_51_cos_MFT
+Fri Jan 20 09:04:12 2017

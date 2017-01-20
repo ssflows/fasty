@@ -1,0 +1,239 @@
+------------------------------------
+FastCodeML V1.3.0
+------------------------------------
+
+Tree file:          /workdir/fasty_run_1484905142/fast20170120-1-5hjarv/tree.nwk
+Gene file:          /workdir/fasty_run_1484905142/fast20170120-1-5hjarv/aligned.phy
+Verbose level:      4 (Mild debug messages)
+H0 pre stop:        No
+Reduce forest:      Aggressive
+Clean data:         Off
+Optimizer:          22
+Relative error:     0.001
+Results file:       /workdir/fasty_run_1484905142/fast20170120-1-5hjarv/output.out
+Current num. cores: 4
+Total num. cores:   4
+Compiled with:      USE_OPENMP USE_CPV_SCALING USE_LAPACK 
+
+
+Num. species:          5
+Num. basis:           60
+Valid codons:         20/20
+Sites:                15/20
+Multi codons:          4/20
+
+------------------------------------
+
+3 1 2 1 1 1 2 1 1 1 0 2 0 0 1 1 0 0 1 1 
+
+Reduced    0 maps to original: 0 13 17
+Reduced    1 maps to original: 1
+Reduced    2 maps to original: 2 10
+Reduced    3 maps to original: 3
+Reduced    4 maps to original: 4
+Reduced    5 maps to original: 5
+Reduced    6 maps to original: 6 16
+Reduced    7 maps to original: 7
+Reduced    8 maps to original: 8
+Reduced    9 maps to original: 9
+Reduced   10 maps to original: 11 12
+Reduced   11 maps to original: 14
+Reduced   12 maps to original: 15
+Reduced   13 maps to original: 18
+Reduced   14 maps to original: 19
+
+Tree as read in PhyloTree
+TREE
+  NODELST
+    SUBTREE
+      FLAB
+        LABEL
+          LABEL 3PFRIKTJFG
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 0.00000001
+    SUBTREE
+      FLAB
+        LABEL
+          LABEL N56CQDCNRG
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 0.00000001
+    SUBTREE
+      NODELST
+        SUBTREE
+          FLAB
+            LABEL
+              LABEL TS0BF6K6DC
+          CBLEN
+            BRANCHLEN
+              BRANCHLEN 0.00000001
+        SUBTREE
+          NODELST
+            SUBTREE
+              FLAB
+                LABEL
+                  LABEL 1TUBDM2737
+              CBLEN
+                BRANCHLEN
+                  BRANCHLEN 0.00000001
+            SUBTREE
+              FLAB
+                LABEL
+                  LABEL RSC37GQC3E
+              CBLEN
+                BRANCHLEN
+                  BRANCHLEN 0.00000001
+          FLAB
+            LABEL
+              LABEL 0.000000
+          CBLEN
+            BRANCHLEN
+              BRANCHLEN 0.00000001
+      FLAB
+        LABEL
+          LABEL 0.000000
+      CBLEN
+        BRANCHLEN
+          BRANCHLEN 0.00000001
+<> 0
+   <3PFRIKTJFG> 1e-08
+   <N56CQDCNRG> 1e-08
+   <0.000000> 1e-08
+      <TS0BF6K6DC> 1e-08
+      <0.000000> 1e-08
+         <1TUBDM2737> 1e-08
+         <RSC37GQC3E> 1e-08
+3PFRIKTJFG
+N56CQDCNRG
+TS0BF6K6DC
+1TUBDM2737
+RSC37GQC3E
+
+Root has 3 children of which 2 are leaves
+Annotated Newick Tree (*N marks the internal branch N)
+
+(3PFRIKTJFG:1e-08,N56CQDCNRG:1e-08,(TS0BF6K6DC:1e-08,(1TUBDM2737:1e-08,RSC37GQC3E:1e-08)0.000000:1e-08*1)0.000000:1e-08*0):0;
+
+       0.000      10.000       0.000       0.000
+       0.000       0.000       5.000       0.000
+       0.000       5.000           0           0
+       0.000       0.000           0       5.000
+       0.000       0.000       5.000       5.000
+       0.000       0.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000       5.000       0.000       0.000
+       0.000      10.000       0.000      15.000
+       0.000       5.000       0.000       0.000
+       0.000       0.000       5.000       0.000
+       0.000       0.000       0.000       0.000
+       0.000      10.000       0.000       5.000
+       5.000       0.000       0.000       0.000
+       5.000       0.000       0.000       0.000
+       0.000       0.000       0.000       0.000
+
+     0.25000     0.15000     0.35000     0.25000
+     0.60000     0.15000     0.15000     0.10000
+     0.10000     0.45000     0.15000     0.30000
+
+  0.01531589  0.06892151  0.02297384  0.04594767
+  0.00382897  0.01723038  0.00574346  0.01148692
+  0.00382897  0.01723038  0.00000000  0.00000000
+  0.00255265  0.01148692  0.00000000  0.00765795
+  0.00918953  0.04135290  0.01378430  0.02756860
+  0.00229738  0.01033823  0.00344608  0.00689215
+  0.00229738  0.01033823  0.00344608  0.00689215
+  0.00153159  0.00689215  0.00229738  0.00459477
+  0.02144225  0.09649011  0.03216337  0.06432674
+  0.00536056  0.02412253  0.00804084  0.01608168
+  0.00536056  0.02412253  0.00804084  0.01608168
+  0.00357371  0.01608168  0.00536056  0.01072112
+  0.01531589  0.06892151  0.02297384  0.04594767
+  0.00382897  0.01723038  0.00574346  0.01148692
+  0.00382897  0.01723038  0.00574346  0.01148692
+  0.00255265  0.01148692  0.00382897  0.00765795
+
+TIMER (preproc.):   30 ms
+
+
+Num branches:             7
+Internal branches:        2
+Unique sites:            15
+Total branches:         105
+Reduced branches:       105  100.00%
+Aggressive reduct.:     105  100.00%
+
+
+TEST FOR H0 (before optimization)
+Trees in class   0:    45
+
+TEST FOR H0
+Trees in class   0:    45
+
+TEST FOR H1 (before optimization)
+Trees in class   0:    60
+
+TEST FOR H1
+Trees in class   0:    60
+
+TEST FOR BEB (before optimization)
+Trees in class   0:    15
+
+TEST FOR BEB
+Trees in class   0:    15
+
+Doing for all internal branches as foreground
+------------------------------------
+Doing foreground branch 2
+
+LnL0: -73.310978932966890 Function calls: 429	  
+
+ -0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000 -0.0000000
+
+p0:  1.0000000  p1:  0.0000000  p2a:  0.0000000  p2b:  0.0000000
+w0:  0.8470497  k:   1.3386350
+
+LnL1: -73.310978932966563 Function calls: 165
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.7984913  p1:  0.0090418  p2a:  0.1903119  p2b:  0.0021550
+w0:  0.1383250  k:   0.8538608  w2:   1.0481284
+
+LRT: 0.000000000000327	 (threshold: 1.920729410347062)
+
+H1 Final Annotated Newick Tree (*N marks the branch N)
+
+(3PFRIKTJFG:0.000000*0,N56CQDCNRG:0.000000*1,(TS0BF6K6DC:0.000000*3,(1TUBDM2737:0.000000*5,RSC37GQC3E:0.000000*6)0.000000:0.000000*4)0.000000:0.000000*2);
+
+(3PFRIKTJFG:0.000000,N56CQDCNRG:0.000000,(TS0BF6K6DC:0.000000,(1TUBDM2737:0.000000,RSC37GQC3E:0.000000)0.000000:0.000000)0.000000:0.000000);
+
+Doing foreground branch 4
+
+LnL0: -73.310978932966847 Function calls: 240	  
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.9130863  p1:  0.0869137  p2a:  0.0000000  p2b:  0.0000000
+w0:  0.0000010  k:   1.5698935
+
+LnL1: -73.310978932966734 Function calls: 411
+
+  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000  0.0000000
+
+p0:  0.5067870  p1:  0.3270252  p2a:  0.1010082  p2b:  0.0651797
+w0:  0.9724274  k:   1.1154364  w2:   1.1039664
+
+LRT: 0.000000000000114	 (threshold: 1.920729410347062)
+
+H1 Final Annotated Newick Tree (*N marks the branch N)
+
+(3PFRIKTJFG:0.000000*0,N56CQDCNRG:0.000000*1,(TS0BF6K6DC:0.000000*3,(1TUBDM2737:0.000000*5,RSC37GQC3E:0.000000*6)0.000000:0.000000*4)0.000000:0.000000*2);
+
+(3PFRIKTJFG:0.000000,N56CQDCNRG:0.000000,(TS0BF6K6DC:0.000000,(1TUBDM2737:0.000000,RSC37GQC3E:0.000000)0.000000:0.000000)0.000000:0.000000);
+
+
+TIMER (processing) ncores:  4 time: 26018
+
+Time used: 0m:26s
+Cores used: 4

@@ -1,0 +1,111 @@
+outDir: /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/
+semphy log file: /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/BP/MSA.MAFFT.semphy.log
+Running proc num 0
+Running proc num 1
+Running proc num 2
+Running proc num 3
+proc num 3	tree num 0 --> global tree index 78
+proc num 1	tree num 0 --> global tree index 26
+proc num 0	tree num 0 --> global tree index 0
+proc num 2	tree num 0 --> global tree index 52
+proc num 2	tree num 1 --> global tree index 53
+proc num 1	tree num 1 --> global tree index 27
+proc num 3	tree num 1 --> global tree index 79
+proc num 0	tree num 1 --> global tree index 1
+proc num 2	tree num 2 --> global tree index 54
+proc num 0	tree num 2 --> global tree index 2
+proc num 3	tree num 2 --> global tree index 80
+proc num 1	tree num 2 --> global tree index 28
+proc num 2	tree num 3 --> global tree index 55
+proc num 3	tree num 3 --> global tree index 81
+proc num 2	tree num 4 --> global tree index 56
+proc num 0	tree num 3 --> global tree index 3
+proc num 1	tree num 3 --> global tree index 29
+proc num 2	tree num 5 --> global tree index 57
+proc num 0	tree num 4 --> global tree index 4
+proc num 1	tree num 4 --> global tree index 30
+proc num 3	tree num 4 --> global tree index 82
+proc num 2	tree num 6 --> global tree index 58
+proc num 3	tree num 5 --> global tree index 83
+proc num 1	tree num 5 --> global tree index 31
+proc num 0	tree num 5 --> global tree index 5
+proc num 2	tree num 7 --> global tree index 59
+proc num 3	tree num 6 --> global tree index 84
+proc num 0	tree num 6 --> global tree index 6
+proc num 1	tree num 6 --> global tree index 32
+proc num 2	tree num 8 --> global tree index 60
+proc num 3	tree num 7 --> global tree index 85
+proc num 0	tree num 7 --> global tree index 7
+proc num 2	tree num 9 --> global tree index 61
+proc num 1	tree num 7 --> global tree index 33
+proc num 3	tree num 8 --> global tree index 86
+proc num 1	tree num 8 --> global tree index 34
+proc num 0	tree num 8 --> global tree index 8
+proc num 2	tree num 10 --> global tree index 62
+proc num 3	tree num 9 --> global tree index 87
+proc num 0	tree num 9 --> global tree index 9
+proc num 1	tree num 9 --> global tree index 35
+proc num 2	tree num 11 --> global tree index 63
+proc num 3	tree num 10 --> global tree index 88
+proc num 0	tree num 10 --> global tree index 10
+proc num 1	tree num 10 --> global tree index 36
+proc num 2	tree num 12 --> global tree index 64
+proc num 3	tree num 11 --> global tree index 89
+proc num 0	tree num 11 --> global tree index 11
+proc num 3	tree num 12 --> global tree index 90
+proc num 1	tree num 11 --> global tree index 37
+proc num 0	tree num 12 --> global tree index 12
+proc num 2	tree num 13 --> global tree index 65
+proc num 3	tree num 13 --> global tree index 91
+proc num 2	tree num 14 --> global tree index 66
+proc num 1	tree num 12 --> global tree index 38
+proc num 0	tree num 13 --> global tree index 13
+proc num 3	tree num 14 --> global tree index 92
+proc num 1	tree num 13 --> global tree index 39
+proc num 0	tree num 14 --> global tree index 14
+proc num 2	tree num 15 --> global tree index 67
+proc num 3	tree num 15 --> global tree index 93
+proc num 0	tree num 15 --> global tree index 15
+proc num 1	tree num 14 --> global tree index 40
+proc num 2	tree num 16 --> global tree index 68
+proc num 3	tree num 16 --> global tree index 94
+proc num 0	tree num 16 --> global tree index 16
+proc num 2	tree num 17 --> global tree index 69
+proc num 3	tree num 17 --> global tree index 95
+proc num 1	tree num 15 --> global tree index 41
+proc num 0	tree num 17 --> global tree index 17
+proc num 2	tree num 18 --> global tree index 70
+proc num 0	tree num 18 --> global tree index 18
+proc num 3	tree num 18 --> global tree index 96
+proc num 1	tree num 16 --> global tree index 42
+proc num 2	tree num 19 --> global tree index 71
+proc num 0	tree num 19 --> global tree index 19
+proc num 3	tree num 19 --> global tree index 97
+proc num 1	tree num 17 --> global tree index 43
+proc num 2	tree num 20 --> global tree index 72
+proc num 3	tree num 20 --> global tree index 98
+proc num 0	tree num 20 --> global tree index 20
+proc num 1	tree num 18 --> global tree index 44
+proc num 2	tree num 21 --> global tree index 73
+proc num 3	tree num 21 --> global tree index 99
+proc num 0	tree num 21 --> global tree index 21
+proc num 1	tree num 19 --> global tree index 45
+proc num 3	tree num 22 --> global tree index 100
+proc num 2	tree num 22 --> global tree index 74
+proc num 0	tree num 22 --> global tree index 22
+proc num 1	tree num 20 --> global tree index 46
+proc num 2	tree num 23 --> global tree index 75
+proc num 0	tree num 23 --> global tree index 23
+proc num 1	tree num 21 --> global tree index 47
+proc num 2	tree num 24 --> global tree index 76
+proc num 0	tree num 24 --> global tree index 24
+proc num 1	tree num 22 --> global tree index 48
+proc num 2	tree num 25 --> global tree index 77
+proc num 0	tree num 25 --> global tree index 25
+proc num 1	tree num 23 --> global tree index 49
+proc num 1	tree num 24 --> global tree index 50
+proc num 1	tree num 25 --> global tree index 51
+done with pid 398
+done with pid 399
+done with pid 400
+done with pid 401

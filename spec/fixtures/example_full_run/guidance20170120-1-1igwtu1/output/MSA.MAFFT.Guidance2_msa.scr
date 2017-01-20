@@ -1,0 +1,6 @@
+#REF_FILE /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output//MSA.MAFFT.aln
+#ROWS   10  #COLUMNS     20
+#ALT_FILES -d /workdir/fasty_run_1484903013/guidance20170120-1-1igwtu1/output/BP/GUIDANCE2_MSA/ 
+#N_ALT    400
+#MEAN_RES_PAIR_SCORE 1.000000  #MEAN_COL_SCORE 1.000000
+#END

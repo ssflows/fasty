@@ -1,0 +1,45 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+require 'methadone'
+require_relative '../lib/fasty'
+
+class App
+  include Methadone::Main
+  include Methadone::CLILogging
+  include Methadone::SH
+
+  main do # Add args you want: |like,so|
+
+    # your program code here
+    # You can access CLI options via
+    # the options Hash
+    pr = Fasty::PipelineRunner.new
+    pr.execute
+  end
+
+  description "A super-deadly CLI"
+
+  on("--wow", "Wow while working")
+
+  # Accept flags via:
+  # on("--flag VAL","Some flag")
+  # options[flag] will contain VAL
+  #
+  # Specify switches via:
+  # on("--[no-]switch","Some switch")
+  #
+  # Or, just call OptionParser methods on opts
+  #
+  # Require an argument
+  # arg :some_arg
+  #
+  # # Make an argument optional
+  # arg :optional_arg, :optional
+
+  version Fasty::VERSION
+
+  use_log_level_option :toggle_debug_on_signal => 'USR1'
+
+  go!
+end
