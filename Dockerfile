@@ -121,19 +121,34 @@ RUN mkdir -p /usr/src/mafft \
 # fastcodeml-source #
 #####################
 
+RUN apt-get install -y --no-install-recommends \
+    gfortran cmake-curses-gui \
+    liblapack-dev libnlopt-dev libboost-all-dev
+
+ENV USE_THREAD 0
+RUN mkdir -p /usr/src/openblas \
+  && curl -SL "https://github.com/xianyi/OpenBLAS/archive/v0.2.19.tar.gz" \
+  | tar xvzC /usr/src/openblas \
+  && cd /usr/src/openblas/OpenBLAS-0.2.19 \
+  && make -j"$(nproc)" \
+  && make install
+
+ENV BLAS_LIB_DIR "/opt/OpenBLAS/lib"
+# ENV LAPACK_LIB_DIR "/opt/OpenBLAS/include"
+
 ENV MATH_LIB_NAMES openblas;lapack
 COPY fast_build_config.txt /usr/src/CMakeLists.txt
-RUN apt-get install -y --no-install-recommends \
-    gfortran cmake-curses-gui libopenblas-dev \
-    libopenblas-base liblapack-dev libnlopt-dev libboost-all-dev \
-    && cd /usr/src \
+RUN cd /usr/src \
     && git clone https://gitlab.isb-sib.ch/phylo/fastcodeml.git \
     && cd fastcodeml \
     && cp ../CMakeLists.txt . \
-    && cmake . \
+    && mkdir build \
+    && cd build \
+    && cmake .. \
     && make -j"$(nproc)" \
     && mv fast /usr/bin/ \
     && rm -rf /usr/src/fastcodeml
+
 #####################
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
