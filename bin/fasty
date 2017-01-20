@@ -14,6 +14,7 @@ class App
     # your program code here
     # You can access CLI options via
     # the options Hash
+    ENV["PPTHREADS"] = options["nt"]
     pr = Fasty::PipelineRunner.new
     pr.execute
   end
@@ -21,6 +22,8 @@ class App
   description "A super-deadly CLI"
 
   on("--wow", "Wow while working")
+
+  on("--nt VAL", "Use this many threads (default is 1)")
 
   # Accept flags via:
   # on("--flag VAL","Some flag")

@@ -18,8 +18,8 @@ class Guidance
       "--seqFile #{@vault.path_to(INPUT)} " \
       "--msaProgram MAFFT " \
       "--seqType codon " \
-      "--proc_num 4 " \
-      "--outDir #{@vault.path_to(OUTPUT)} "
+      "--outDir #{@vault.path_to(OUTPUT)} " \
+      "--proc_num #{ENV['PPTHREADS'] || 1}" \
     end
   end
 end

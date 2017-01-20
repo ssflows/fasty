@@ -8,10 +8,10 @@ module Fasty
       encode_alignment
     end
 
-    def run_things
+    def run_things  
       @guidance_result = Guidance.new(@workdir).execute(input: @encoded_orig_alignment.to_fasta)
       @phyml_result = Phyml.new(@workdir).execute(input: @guidance_result.alignment.to_molphy)
-      codeml_result = Codeml.new(@workdir).execute(input: {alignment: @guidance_result.alignment.to_fasta, tree: @phyml_result.tree})
+      @codeml_result = Codeml.new(@workdir).execute(input: {alignment: @guidance_result.alignment.to_fasta, tree: @phyml_result.tree})
       @fast_result = Fast.new(@workdir).execute(input: {alignment: @guidance_result.alignment.to_molphy, tree: @phyml_result.tree})
     end
 
