@@ -19,6 +19,7 @@ module Fasty
     def execute
       run_things
       File.open(File.join(@workdir, "report.json"), "w") {|f| f << final_report }
+      decode_everything
       puts 'Success'
     end
 
@@ -40,6 +41,12 @@ module Fasty
       enc = Encoder.new(@orig_alignment)
       @encoded_orig_alignment = enc.encoded_alignment
       @dictionary = enc.dictionary
+    end
+
+    def decode_everything
+      @dictionary.codes_to_keys.each do |code, key|
+        `grep -rl '#{code}' #{@workdir} | xargs sed -i 's/#{code}/#{key}/g'`
+      end
     end
 
   end

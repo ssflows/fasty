@@ -1,7 +1,7 @@
 class Dictionary
   ALPHABET = ("A".."Z").to_a + (0..9).to_a
 
-  attr_reader :keys_to_codes
+  attr_reader :keys_to_codes, :codes_to_keys
 
   # @param keys [Array]
   def initialize(keys)
