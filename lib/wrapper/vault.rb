@@ -6,8 +6,9 @@ class Vault
   STDOUT = "stdout.out".freeze
   STDERR = "stderr.out".freeze
 
-  def initialize(prepend=nil, workdir)
-    @dir = Dir.mktmpdir(prepend, workdir)
+  def initialize(name=nil, workdir)
+    @dir = File.join(workdir.to_s, name.to_s)
+    Dir.mkdir(@dir)
     @o = File.join(@dir, STDOUT)
     @e = File.join(@dir, STDERR)
   end
