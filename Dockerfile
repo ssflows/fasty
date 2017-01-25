@@ -125,7 +125,6 @@ RUN apt-get install -y --no-install-recommends \
     gfortran cmake-curses-gui \
     liblapack-dev libnlopt-dev libboost-all-dev
 
-ENV USE_OPENMP 1
 ENV OPENBLAS_NUM_THREADS 1
 RUN mkdir -p /usr/src/openblas \
   && curl -SL "https://github.com/xianyi/OpenBLAS/archive/v0.2.19.tar.gz" \
