@@ -20,6 +20,7 @@ module Fasty
       run_things
       File.open(File.join(@workdir, "report.json"), "w") {|f| f << final_report }
       decode_everything
+      chown_everything
       puts 'Success'
     end
 
@@ -47,6 +48,12 @@ module Fasty
       @dictionary.codes_to_keys.each do |code, key|
         `grep -rl '#{code}' #{@workdir} | xargs sed -i 's/#{code}/#{key}/g'`
       end
+    end
+
+    def chown_everything
+      uid = File.stat("/workdir/#{@input_file}").uid
+      gid = File.stat("/workdir/#{@input_file}").gid
+      `chown -R #{uid}:#{gid} #{@workdir}`
     end
 
   end
