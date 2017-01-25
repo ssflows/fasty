@@ -34,10 +34,10 @@ class Vault
   end
 
   def execute(exec, arguments)
-    Open3.popen3("cd #{@dir} && #{exec} #{arguments}") do |i, o, e, _t|
+    Open3.popen3("cd #{@dir} && #{exec} #{arguments} 2> #{STDERR} 1> #{STDOUT}") do |i, _o, _e, _t|
       i.puts "y\r\n"
-      File.open(@o, "w") {|f| f << o.read }
-      File.open(@e, "w") {|f| f << e.read }
+      # File.open(@o, "w") {|f| f << o.read }
+      # File.open(@e, "w") {|f| f << e.read }
     end
   end
 
