@@ -123,17 +123,17 @@ RUN mkdir -p /usr/src/mafft \
 
 RUN apt-get install -y --no-install-recommends \
     gfortran cmake-curses-gui \
-    liblapack-dev libnlopt-dev libboost-all-dev
+    libopenblas-dev liblapack-dev libnlopt-dev libboost-all-dev
 
 ENV OPENBLAS_NUM_THREADS 1
-RUN mkdir -p /usr/src/openblas \
-  && curl -SL "https://github.com/xianyi/OpenBLAS/archive/v0.2.19.tar.gz" \
-  | tar xvzC /usr/src/openblas \
-  && cd /usr/src/openblas/OpenBLAS-0.2.19 \
-  && make -j"$(nproc)" \
-  && make install
+# RUN mkdir -p /usr/src/openblas \
+#   && curl -SL "https://github.com/xianyi/OpenBLAS/archive/v0.2.19.tar.gz" \
+#   | tar xvzC /usr/src/openblas \
+#   && cd /usr/src/openblas/OpenBLAS-0.2.19 \
+#   && make -j"$(nproc)" \
+#   && make install
 
-ENV BLAS_LIB_DIR "/opt/OpenBLAS/lib"
+# ENV BLAS_LIB_DIR "/opt/OpenBLAS/lib"
 # ENV LAPACK_LIB_DIR "/opt/OpenBLAS/include"
 
 ENV MATH_LIB_NAMES openblas;lapack
