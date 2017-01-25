@@ -3,12 +3,13 @@ require 'json'
 module Fasty
   class PipelineRunner
 
-    def initialize
+    def initialize(input)
+      @input_file = input
       create_workdir
       encode_alignment
     end
 
-    def run_things  
+    def run_things
       @guidance_result = Guidance.new(@workdir).execute(input: @encoded_orig_alignment.to_fasta)
       @phyml_result = Phyml.new(@workdir).execute(input: @guidance_result.alignment.to_molphy)
       @codeml_result = Codeml.new(@workdir).execute(input: {alignment: @guidance_result.alignment.to_fasta, tree: @phyml_result.tree})
@@ -35,7 +36,7 @@ module Fasty
     end
 
     def encode_alignment
-      @orig_alignment = Alignment.new(File.open("/workdir/alignment.fasta").read)
+      @orig_alignment = Alignment.new(File.open("/workdir/#{@input_file}").read)
       enc = Encoder.new(@orig_alignment)
       @encoded_orig_alignment = enc.encoded_alignment
       @dictionary = enc.dictionary
