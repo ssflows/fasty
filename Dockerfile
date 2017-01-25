@@ -125,7 +125,6 @@ RUN apt-get install -y --no-install-recommends \
     gfortran cmake-curses-gui \
     liblapack-dev libnlopt-dev libboost-all-dev
 
-ENV ASDF 2
 ENV USE_OPENMP 1
 ENV OPENBLAS_NUM_THREADS 1
 RUN mkdir -p /usr/src/openblas \
@@ -153,11 +152,11 @@ RUN cd /usr/src \
 
 #####################
 
-RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
-
 ADD . /installdir
 WORKDIR /installdir
-RUN bundle install -j 6
+RUN bundle install -j6
+
+RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 ENTRYPOINT ["bundle", "exec", "./bin/fasty"]
 # ENTRYPOINT ["bundle", "exec", "rspec"]
