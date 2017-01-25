@@ -8,13 +8,13 @@ docker pull ssflows/fasty
 
 ## Usage
 
-Make sure you've created a directory with only a `alignment.fasta` file and `cd` into it. And then execute:
+Given that you have a properly formatted FASTA file named `input.fasta` just type:
 
 ```bash
 docker run -v $PWD:/workdir ssflows/fasty input.fasta
 ```
 
-This should create a temporary directory with tool workdirs inside.
+This should create a temporary directory with tool workdirs inside and run the pipeline.
 
 For smaller runtimes use multiple cores like this:
 
