@@ -14,6 +14,7 @@ class Fast
 
     def default_opts
       " --no-pre-stop"               \
+      " --branch-lengths-fixed"               \
       " -nt #{ENV['PPTHREADS'] || 1}" \
       " -v 4"                        \
       " -ou #{@vault.path_to(OUTPUT)}"   \
