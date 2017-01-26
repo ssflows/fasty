@@ -12,9 +12,6 @@ class Codeml
     end
 
     def default_opts
-      raise "Needs to be defined"
-    end
-    def default_opts
       " --noisy 9" +
       " --method 1" +
       " --preset M0" +

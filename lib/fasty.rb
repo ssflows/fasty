@@ -12,6 +12,7 @@ require_relative "fasty/tool_report"
 require_relative "fasty/alignment"
 require_relative "fasty/dictionary"
 require_relative "fasty/encoder"
+require_relative "fasty/tree"
 
 module Fasty
 end

@@ -20,7 +20,7 @@ class Tree
   end
 
   def newick_without_inner_node_names
-    newick.gsub(/\d+\.\d+\:\d+.\d+/) {|s| ":" + s.split(":").last }
+    @newick.gsub(/\d+\.\d+\:\d+.\d+/) {|s| ":" + s.split(":").last }
   end
 
   # Should only be applied for trees with

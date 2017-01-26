@@ -6,9 +6,9 @@ require_relative "codeml/codeml_result"
 class Codeml
   PROGRAM = "PAML-codeml".freeze
   EXECUTABLE = "cdmw.py".freeze
-  INPUT_ALIGNMENT = "aligned.fasta".freeze
+  INPUT_ALIGNMENT = "aligned.phylip".freeze
   INPUT_TREE = "tree.nwk".freeze
-  OUTPUT = "output.out".freeze
+  OUTPUT = "output.mlc".freeze
 
   attr_reader :vault, :args
 

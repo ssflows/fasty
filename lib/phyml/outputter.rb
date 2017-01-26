@@ -15,7 +15,7 @@ class Phyml
     end
 
     def process_output
-      @result.tree = File.open(@vault.path_to(OUTPUT)).read
+      @result.tree = Tree.new(newick: File.open(@vault.path_to(OUTPUT)).read)
     end
 
     def run_successful?
