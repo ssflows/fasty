@@ -17,7 +17,7 @@ class Codeml
     def default_opts
       " --noisy 9" +
       " --method 1" +
-      " --preset M1" +
+      " --preset M0" +
       " #{@vault.path_to(INPUT_ALIGNMENT)}"+
       " #{@vault.path_to(INPUT_TREE)}" +
       " #{@vault.path_to(OUTPUT)}"
